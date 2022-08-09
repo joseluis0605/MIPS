@@ -1,10 +1,4 @@
-#################################################
-# ESTRUCTURA DE COMPUTADORES
-# Interpolacion lineal
-# Autor: Luis Rincon Corcoles
-#################################################
-# Declaracion de variables y tiras de caracteres
-#################################################
+
 	.data
 x:	.space		4
 y:	.space		4
